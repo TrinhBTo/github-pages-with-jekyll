@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Inside My Bubble"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi, I'm Trinh To, an university student majoring in Computer Science and Software Engineering. 
+
+This is what I have been up to 
